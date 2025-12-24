@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Birthday Surprise for Sai",
+  "description": "An interactive, high-fidelity birthday experience featuring a password gate, animated gift card with AI voice narration, and a virtual cake with blow-detection technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
